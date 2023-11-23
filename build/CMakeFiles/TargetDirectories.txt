@@ -1,0 +1,3 @@
+/home/raulcfr/projetos/restaurante-futuristico/build/CMakeFiles/restaurante_app.dir
+/home/raulcfr/projetos/restaurante-futuristico/build/CMakeFiles/edit_cache.dir
+/home/raulcfr/projetos/restaurante-futuristico/build/CMakeFiles/rebuild_cache.dir

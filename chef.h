@@ -46,6 +46,11 @@ public:
      */
     [[nodiscard]] unsigned int getID() const { return id; }
 
+    [[nodiscard]] std::string getNome() { return nome; }
+
+private:
+    std::string nome;
+
 private:
 
     class Atendimento;

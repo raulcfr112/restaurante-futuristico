@@ -54,8 +54,10 @@ int processarEntrada(std::istream &entrada) {
             std::getline(stream, pedido);
 
             if (encerrar(pedido)) {
+                std::cout << "[LOG][processarEntrada] Finalizando Mesa " << mesa << std::endl;
                 restaurante.finalizarMesa(mesa);
             } else {
+                std::cout << "[LOG][processarEntrada] Mesa " << mesa << " Pedido: " << pedido << std::endl;
                 restaurante.fazerPedido(mesa, pedido);
             }
         }

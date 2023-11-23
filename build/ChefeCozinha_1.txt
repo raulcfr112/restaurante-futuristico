@@ -1,0 +1,16 @@
+ChefeCozinha_1
+
+Mesa 4:
+    - HAMBURGUER COM BATATAS FRITAS
+    - CACHORRO QUENTE
+
+Mesa 5:
+    - PICANHA NA CHAPA
+    - PORCAO DE BATATAS FRITAS
+
+Mesa 4:
+    - BIFE A PARMEGIANA
+    - SALADA DE ALFACE
+
+Mesa 0:
+    - 
